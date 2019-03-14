@@ -1,13 +1,13 @@
 {
-  "main.css": "/vikrampanwar999/react.git/static/css/main.7b3b1e8e.chunk.css",
-  "main.js": "/vikrampanwar999/react.git/static/js/main.840660ae.chunk.js",
-  "main.js.map": "/vikrampanwar999/react.git/static/js/main.840660ae.chunk.js.map",
-  "runtime~main.js": "/vikrampanwar999/react.git/static/js/runtime~main.37a13dd4.js",
-  "runtime~main.js.map": "/vikrampanwar999/react.git/static/js/runtime~main.37a13dd4.js.map",
-  "static/js/2.c7e73486.chunk.js": "/vikrampanwar999/react.git/static/js/2.c7e73486.chunk.js",
-  "static/js/2.c7e73486.chunk.js.map": "/vikrampanwar999/react.git/static/js/2.c7e73486.chunk.js.map",
-  "index.html": "/vikrampanwar999/react.git/index.html",
-  "precache-manifest.7fccd04b904983fbca9f8333b3377aab.js": "/vikrampanwar999/react.git/precache-manifest.7fccd04b904983fbca9f8333b3377aab.js",
-  "service-worker.js": "/vikrampanwar999/react.git/service-worker.js",
-  "static/css/main.7b3b1e8e.chunk.css.map": "/vikrampanwar999/react.git/static/css/main.7b3b1e8e.chunk.css.map"
+  "main.css": "/react/static/css/main.7b3b1e8e.chunk.css",
+  "main.js": "/react/static/js/main.94872405.chunk.js",
+  "main.js.map": "/react/static/js/main.94872405.chunk.js.map",
+  "runtime~main.js": "/react/static/js/runtime~main.bb50a20d.js",
+  "runtime~main.js.map": "/react/static/js/runtime~main.bb50a20d.js.map",
+  "static/js/2.c7e73486.chunk.js": "/react/static/js/2.c7e73486.chunk.js",
+  "static/js/2.c7e73486.chunk.js.map": "/react/static/js/2.c7e73486.chunk.js.map",
+  "index.html": "/react/index.html",
+  "precache-manifest.5ea8b545de265b4a533556514d2f120b.js": "/react/precache-manifest.5ea8b545de265b4a533556514d2f120b.js",
+  "service-worker.js": "/react/service-worker.js",
+  "static/css/main.7b3b1e8e.chunk.css.map": "/react/static/css/main.7b3b1e8e.chunk.css.map"
 }
