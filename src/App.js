@@ -19,10 +19,10 @@ class App extends Component {
           
           
         </Toolbar>
-        <Posts></Posts>
+        
         
         </AppBar>
-       
+        <Posts></Posts>
       </div>
     );
   }

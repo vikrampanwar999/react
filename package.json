@@ -2,19 +2,19 @@
   "name": "react-material",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vikrampanwar999/react.git"
-,
+  "homepage": "https://vikrampanwar999.github.io/react",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "gh-pages": "^2.0.1",
     "material-ui-icons": "^1.0.0-beta.36",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "yarn": "^1.13.0"
   },
   "scripts": {
     "predeploy": "yarn run build",
-   "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

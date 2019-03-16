@@ -1,7 +1,7 @@
 import { List, ListItem, ListItemText, Typography } from "@material-ui/core";
 import React from "react";
 // import {Home, Book ,AccountBox } from '@material-ui/icons';
-
+import Posts from "./posts";
 
 function NavBar(props){
     return (
@@ -13,7 +13,7 @@ function NavBar(props){
                     </Typography>
                 </ListItemText>
             <ListItemText inset>
-                <Typography color="inherit" variant="title">
+                <Typography onClick={Posts} color="inherit" variant="title">
                 Posts 
                 </Typography>
             </ListItemText>

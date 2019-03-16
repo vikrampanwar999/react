@@ -20,7 +20,7 @@ function Posts(props) {
                   component="img"
                   alt="Contemplative Reptile"
                   height="140"excerpt
-                  image={post.image}
+                  image={post.img}
                   title="Contemplative Reptile"
                 />
                 <CardContent>
@@ -28,6 +28,7 @@ function Posts(props) {
                     {post.title}
                   </Typography>
                   <Typography component="p">{post.excerpt}</Typography>
+                  
                 </CardContent>
               </CardActionArea>
               <CardActions>
